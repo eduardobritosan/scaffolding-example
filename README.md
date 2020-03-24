@@ -1,0 +1,1 @@
+# Scaffolding class example
