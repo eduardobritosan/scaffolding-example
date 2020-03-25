@@ -13,12 +13,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardobritosan/scaffolding-example.git"
+    "url": "git+https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-eduardobritosan.git"
   },
   "bugs": {
-    "url": "https://github.com/eduardobritosan/scaffolding-example/issues"
+    "url": "https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-eduardobritosan/issues"
   },
-  "homepage": "https://github.com/eduardobritosan/scaffolding-example#readme",
+  "homepage": "https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-eduardobritosan#readme",
   "devDependencies": {
     "cssnano": "^4.1.10",
     "eslint": "^6.8.0",
