@@ -135,4 +135,7 @@ temp/
 # Ignore all local history of files
 .history
 
+### Build
+build/
+
 # End of https://www.gitignore.io/api/git,node,visualstudiocode
