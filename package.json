@@ -4,9 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.html",
+    "clean": "rm -rf dist package-lock.json node_modules"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardobritosan/scaffolding-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardobritosan/scaffolding-example/issues"
+  },
+  "homepage": "https://github.com/eduardobritosan/scaffolding-example#readme"
 }
